@@ -1,0 +1,1 @@
+<eleventy-image @attributes :width="[70, 100]" sizes="(max-width: 48rem) 70px, 100px" class="image"></eleventy-image>
